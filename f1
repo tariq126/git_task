@@ -1,3 +1,7 @@
 Initial file
 Development branch
+<<<<<<< HEAD
 Change on development branch
+=======
+Implement the login functionality
+>>>>>>> feature/login-system
